@@ -206,3 +206,4 @@ mkdir icons ./client/assets
 mkdit .client/assets/icons
 mkdir .client/assets/icons
 mkdir ./client/assets/icons
+mv CodeAlly.svg ./client/assets/icons/
