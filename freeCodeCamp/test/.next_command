@@ -134,3 +134,4 @@ cd project
 ls --color=auto
 cd website
 cd images
+ls --color=auto
