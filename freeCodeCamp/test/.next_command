@@ -80,3 +80,5 @@ cd website
 ls --color=auto
 echo hello website terminal
 touch index.html
+touchstyles.css
+touch styles.css
