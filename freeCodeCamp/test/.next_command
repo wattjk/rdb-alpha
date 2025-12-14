@@ -104,3 +104,33 @@ ls --color=auto
 mkdir images
 ls --color=auto
 cp background.jpg images
+cd
+cd images
+cd website
+pwd
+cd freeCodeCamp
+ls --color=auto
+cd project
+cd images
+pwd
+cd..
+cd ..
+cd camper
+cd project
+ls --color=auto
+cd..
+cd ..
+ls --color=auto
+clear
+ls --color=auto
+cd camper
+ls --color=auto
+cd ..
+cd ..
+ls --color=auto
+cd workspace
+ls --color=auto
+cd project
+ls --color=auto
+cd website
+cd images
