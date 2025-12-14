@@ -82,3 +82,4 @@ echo hello website terminal
 touch index.html
 touchstyles.css
 touch styles.css
+ls --color=auto
